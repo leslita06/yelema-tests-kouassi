@@ -1,0 +1,21 @@
+{
+ "entreprise": "Djoli",
+ "raison_sociale": "Djoli Côte d'Ivoire",
+ "logo": "logo.png",
+ "couleur_primaire": "#255C40",
+ "couleur_secondaire": "#DE6A4D",
+ "couleur_accent": "#DE6A4D",
+ "police_titres": "Quicksand",
+ "police_texte": "Quicksand",
+ "pied_de_page": "Djoli Côte d'Ivoire, Ivoire Trade Center, Cocody, Abidjan. Document d'entraînement : données de terrain FICTIVES.",
+ "mention_confidentialite": "Document interne Djoli, réservé à l'équipe commerciale.",
+ "mentions_legales": "Djoli Côte d'Ivoire (raison sociale exacte, capital et RCCM non publiés sur le site)",
+ "signataire": {
+  "nom": "Kouassi",
+  "fonction": "Expert commercial et ventes",
+  "email": "kouassi.mstudio@agentmail.to",
+  "telephone": "+225 07 11 35 54 11"
+ },
+ "devise": "FCFA",
+ "_note": "Charte relevée sur djoli.africa (feuille de style Webflow) : vert #255c40, corail #de6a4d, crème #fff7df, police Quicksand ; logo blanc du site sur fond vert. Le téléphone est celui du WhatsApp public du site."
+}

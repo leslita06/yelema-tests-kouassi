@@ -1,0 +1,12 @@
+CR
+Client :
+Quartier :
+Statut : prospect, visité, intéressé, commande ou pas intéressé
+Produits :
+Montant :
+Points positifs :
+Points négatifs :
+Prochaine étape :
+
+📍 Juste après ce message, partagez votre position : trombone, puis Position.
+Seuls « CR » et le nom du client sont obligatoires. Une note vocale qui suit le même ordre marche aussi.

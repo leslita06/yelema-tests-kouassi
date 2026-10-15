@@ -1,0 +1,11 @@
+CR
+Client : Maquis Chez Kouamé
+Quartier : Cocody Angré
+Statut : commande
+Produits : Tomate 2e choix : 20 kilos ; Tomate 1er choix : 10 kilos ; Banane plantain alloco : 15 kilos ; Piment vert : 3 kilos
+Montant : 25 600 FCFA
+Points positifs : Veut tester le tri de la tomate
+Points négatifs : Le neveu qui achète au marché n'était pas là
+Prochaine étape : Livrer la commande test et peser les produits jetés, jeudi 15 octobre
+📍 Position partagée : 5.3961, -3.9875
+(exemple tiré du compte rendu de Yao K. du 12/10/2026 à 15 h 00)
