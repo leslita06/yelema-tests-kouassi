@@ -1,0 +1,22 @@
+bloc,produit,quantite,unite,prix_unitaire_HT_ou_marche,note
+fiche_pertes_achat_marche,Tomate,26,kg,650,"Achetée tous les matins par le neveu, en vrac ; jetée surtout jeudi et vendredi"
+fiche_pertes_jete,Tomate,5.5,kg,,
+fiche_pertes_achat_marche,Banane plantain (alloco),60,kg,450,"Un gros lot le lundi ; mûrit trop vite, noire avant samedi"
+fiche_pertes_jete,Banane plantain (alloco),9,kg,,
+fiche_pertes_achat_marche,Concombre,6,kg,600,Pour la garniture du poisson braisé
+fiche_pertes_jete,Concombre,1,kg,,
+fiche_pertes_achat_marche,Chou,5,kg,700,Pour la salade de chou
+fiche_pertes_jete,Chou,0.5,kg,,
+fiche_pertes_achat_marche,Piment,3,kg,,Pas de perte notée
+fiche_pertes_jete,Piment,0,kg,,
+commande_djoli_Lundi,"Tomate 1er choix, au kilo (crudités, garniture)",3,kg,600,
+commande_djoli_Lundi,"Tomate 2e choix, au kilo (sauce)",8,kg,500,
+commande_djoli_Lundi,"Banane plantain alloco, sac 10 kg",3,sac,2500,
+commande_djoli_Lundi,"Concombre, au kilo",3,kg,225,
+commande_djoli_Lundi,"Chou vert, sac 5 kg",1,sac,1375,
+commande_djoli_Lundi,"Piment vert, au kilo",1.5,kg,1700,
+commande_djoli_Jeudi,"Tomate 1er choix, au kilo",3,kg,600,
+commande_djoli_Jeudi,"Tomate 2e choix, au kilo (sauce)",8,kg,500,
+commande_djoli_Jeudi,"Banane plantain alloco, sac 10 kg",2,sac,2500,
+commande_djoli_Jeudi,"Concombre, au kilo",2,kg,225,
+commande_djoli_Jeudi,"Piment vert, au kilo",1.5,kg,1700,
