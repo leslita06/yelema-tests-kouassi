@@ -1,0 +1,15 @@
+{
+ "$inclure": [
+  "fiches-waribei.json"
+ ],
+ "rapport": {
+  "date": "2026-10-16",
+  "veille": "2026-10-15",
+  "destinataire": "Direction commerciale Waribei (FICTIF)",
+  "reference_semaine_precedente": {
+   "date": "2026-10-08",
+   "ca_commande": 520000,
+   "source": "rapport du matin du 09/10/2026 (FICTIF)"
+  }
+ }
+}

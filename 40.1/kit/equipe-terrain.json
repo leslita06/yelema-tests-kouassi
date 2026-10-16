@@ -1,0 +1,42 @@
+{
+ "entreprise_terrain": {
+  "expert": {
+   "prenom": "Kouassi",
+   "role": "Expert IA commercial"
+  },
+  "direction_commerciale": {
+   "nom": "Direction commerciale Waribei (FICTIF)",
+   "fonction": "Directrice commerciale",
+   "email": "direction.commerciale@waribei.example",
+   "telephone": "+225 07 00 00 00 02"
+  },
+  "lien_tableau_de_bord": "https://leslita06.github.io/yelema-tests-kouassi/40.1/",
+  "commerciaux": [
+   {
+    "code": "C1",
+    "nom": "Issa C.",
+    "zone": "Yopougon",
+    "telephone": "+225 07 00 20 01"
+   },
+   {
+    "code": "C2",
+    "nom": "Aya K.",
+    "zone": "Fournisseurs Yopougon et Abobo",
+    "telephone": "+225 07 00 20 02"
+   },
+   {
+    "code": "C3",
+    "nom": "Moussa D.",
+    "zone": "Abobo",
+    "telephone": "+225 07 00 20 03"
+   }
+  ],
+  "gammes": [
+   "Alimentaire sec",
+   "Boissons",
+   "Hygiène et entretien"
+  ],
+  "grille_version": "Avances financées via Waricode, montants FICTIFS",
+  "_origine": "Données FICTIVES d'entraînement, cohérentes avec les tests 22.2 et 26.2 (mêmes dossiers)."
+ }
+}

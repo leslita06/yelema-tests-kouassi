@@ -1,0 +1,21 @@
+{
+ "entreprise": "Waribei",
+ "raison_sociale": "Waribei Côte d'Ivoire",
+ "logo": "logo.png",
+ "couleur_primaire": "#301446",
+ "couleur_secondaire": "#F83131",
+ "couleur_accent": "#064C72",
+ "police_titres": "Heebo",
+ "police_texte": "Heebo",
+ "pied_de_page": "Waribei Côte d'Ivoire, Ivoire Trade Center, boulevard Hassan II, Cocody, Abidjan. Document d'entraînement : données de terrain FICTIVES.",
+ "mention_confidentialite": "Document interne Waribei, réservé à la direction commerciale.",
+ "mentions_legales": "Waribei Côte d'Ivoire (raison sociale exacte, capital et RCCM non publiés sur le site)",
+ "signataire": {
+  "nom": "Kouassi",
+  "fonction": "Expert commercial et ventes",
+  "email": "kouassi.mstudio@agentmail.to",
+  "telephone": "+225 07 15 00 69 69"
+ },
+ "devise": "FCFA",
+ "_note": "Charte relevée sur waribei.africa : prune #301446, rouge #F83131, bleu pétrole #064C72, police Heebo ; logo du site. Le téléphone est celui publié sur le site."
+}

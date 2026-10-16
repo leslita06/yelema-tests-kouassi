@@ -1,0 +1,324 @@
+{
+ "$inclure": [
+  "equipe-terrain.json",
+  "base-points-de-vente.json"
+ ],
+ "fiches": [
+  {
+   "id": "FV-1013-01",
+   "date": "2026-10-13",
+   "heure": "09:20",
+   "commercial": "C1",
+   "code_pdv": "PDV-02",
+   "point_de_vente": "Dépôt de boissons Brou",
+   "quartier": "Yopougon Sicogi",
+   "statut": "intéressé",
+   "lignes": [],
+   "position": [
+    5.338,
+    -4.076
+   ],
+   "points_positifs": "Veut doubler son stock avant la fin du mois",
+   "points_negatifs": "Demande 600 000 F, au-dessus de la grille FICTIVE",
+   "montant_en_jeu": 600000,
+   "prochaine_etape": {
+    "action": "Rapporter la décision de la direction sur le plafond",
+    "date": "2026-10-15"
+   }
+  },
+  {
+   "id": "FV-1014-01",
+   "date": "2026-10-14",
+   "heure": "10:00",
+   "commercial": "C3",
+   "code_pdv": "PDV-04",
+   "point_de_vente": "Boutique Chez Mariam",
+   "quartier": "Abobo Avocatier",
+   "statut": "intéressé",
+   "lignes": [],
+   "position": [
+    5.4409,
+    -4.0153
+   ],
+   "points_positifs": "Devis prêt",
+   "points_negatifs": "Son fournisseur n'est pas encore partenaire",
+   "montant_en_jeu": 250000,
+   "prochaine_etape": {
+    "action": "Confirmer le fournisseur partenaire",
+    "date": "2026-10-15"
+   }
+  },
+  {
+   "id": "FV-1015-01",
+   "date": "2026-10-15",
+   "heure": "08:40",
+   "commercial": "C1",
+   "code_pdv": "PDV-08",
+   "point_de_vente": "Superette Le Bon Prix",
+   "quartier": "Yopougon Toit Rouge",
+   "statut": "commande",
+   "lignes": [
+    {
+     "ref": "RIZ-25",
+     "designation": "Riz parfumé, sac 25 kg",
+     "gamme": "Alimentaire sec",
+     "quantite": 6,
+     "unite": "sac",
+     "prix_unitaire": 17500,
+     "montant": 105000
+    },
+    {
+     "ref": "HUI-5",
+     "designation": "Huile végétale, bidon 5 L",
+     "gamme": "Alimentaire sec",
+     "quantite": 10,
+     "unite": "bidon",
+     "prix_unitaire": 6200,
+     "montant": 62000
+    },
+    {
+     "ref": "SAV-CT",
+     "designation": "Savon de ménage, carton",
+     "gamme": "Hygiène et entretien",
+     "quantite": 4,
+     "unite": "carton",
+     "prix_unitaire": 9000,
+     "montant": 36000
+    }
+   ],
+   "position": [
+    5.3514,
+    -4.0883
+   ],
+   "points_positifs": "Waricode scanné chez son fournisseur partenaire, marchandise remise",
+   "points_negatifs": "",
+   "montant": 203000,
+   "prochaine_etape": {
+    "action": "Rappeler la date de remboursement à J-5",
+    "date": "2026-11-09"
+   }
+  },
+  {
+   "id": "FV-1015-02",
+   "date": "2026-10-15",
+   "heure": "10:15",
+   "commercial": "C3",
+   "code_pdv": "PDV-09",
+   "point_de_vente": "Boutique Awa Sagbé",
+   "quartier": "Abobo Sagbé",
+   "statut": "commande",
+   "lignes": [
+    {
+     "ref": "SUC-50",
+     "designation": "Sucre en poudre, sac 50 kg",
+     "gamme": "Alimentaire sec",
+     "quantite": 2,
+     "unite": "sac",
+     "prix_unitaire": 32000,
+     "montant": 64000
+    },
+    {
+     "ref": "LAI-CT",
+     "designation": "Lait concentré, carton 48 boîtes",
+     "gamme": "Alimentaire sec",
+     "quantite": 3,
+     "unite": "carton",
+     "prix_unitaire": 21000,
+     "montant": 63000
+    }
+   ],
+   "position": [
+    5.43,
+    -4.04
+   ],
+   "points_positifs": "Deuxième avance, la première remboursée à l'heure",
+   "points_negatifs": "",
+   "montant": 127000,
+   "prochaine_etape": {
+    "action": "Rappeler la date de remboursement à J-5",
+    "date": "2026-11-09"
+   }
+  },
+  {
+   "id": "FV-1015-03",
+   "date": "2026-10-15",
+   "heure": "11:30",
+   "commercial": "C3",
+   "code_pdv": "PDV-04",
+   "point_de_vente": "Boutique Chez Mariam",
+   "quartier": "Abobo Avocatier",
+   "statut": "commande",
+   "lignes": [
+    {
+     "ref": "BOI-CS",
+     "designation": "Boissons gazeuses, casier 24",
+     "gamme": "Boissons",
+     "quantite": 8,
+     "unite": "casier",
+     "prix_unitaire": 7500,
+     "montant": 60000
+    },
+    {
+     "ref": "EAU-PK",
+     "designation": "Eau minérale, pack 6 x 1,5 L",
+     "gamme": "Boissons",
+     "quantite": 20,
+     "unite": "pack",
+     "prix_unitaire": 2100,
+     "montant": 42000
+    },
+    {
+     "ref": "DET-CT",
+     "designation": "Détergent en poudre, carton",
+     "gamme": "Hygiène et entretien",
+     "quantite": 3,
+     "unite": "carton",
+     "prix_unitaire": 14500,
+     "montant": 43500
+    }
+   ],
+   "position": [
+    5.4409,
+    -4.0153
+   ],
+   "points_positifs": "Fournisseur de boissons partenaire trouvé à Abobo-Gare",
+   "points_negatifs": "Le grossiste habituel n'est toujours pas équipé",
+   "montant": 145500,
+   "prochaine_etape": {
+    "action": "Point sur la rotation du stock",
+    "date": "2026-10-22"
+   }
+  },
+  {
+   "id": "FV-1015-04",
+   "date": "2026-10-15",
+   "heure": "09:30",
+   "commercial": "C1",
+   "code_pdv": "PDV-01",
+   "point_de_vente": "Boutique Chez Tantie Rose",
+   "quartier": "Yopougon Niangon",
+   "statut": "visité",
+   "lignes": [],
+   "position": [
+    5.329,
+    -4.105
+   ],
+   "points_positifs": "Application ouverte devant le commercial",
+   "points_negatifs": "Waricode non créé : elle ne voit pas le montant de son avance",
+   "montant_en_jeu": null,
+   "prochaine_etape": {
+    "action": "Fixer par téléphone un passage avec l'équipe produit",
+    "date": "2026-10-16"
+   }
+  },
+  {
+   "id": "FV-1015-05",
+   "date": "2026-10-15",
+   "heure": "14:00",
+   "commercial": "C1",
+   "code_pdv": "PDV-03",
+   "point_de_vente": "Alimentation Chez Kader",
+   "quartier": "Yopougon Selmer",
+   "statut": "intéressé",
+   "lignes": [],
+   "position": [
+    5.346,
+    -4.08
+   ],
+   "points_positifs": "Achète au même grossiste deux fois par mois",
+   "points_negatifs": "Smartphone à vérifier",
+   "montant_en_jeu": 150000,
+   "prochaine_etape": {
+    "action": "Lui faire télécharger l'application et vérifier son smartphone",
+    "date": "2026-10-16"
+   }
+  },
+  {
+   "id": "FV-1015-06",
+   "date": "2026-10-15",
+   "heure": "15:10",
+   "commercial": "C1",
+   "code_pdv": "PDV-10",
+   "point_de_vente": "Boutique Soro",
+   "quartier": "Yopougon Toit Rouge",
+   "statut": "pas intéressé",
+   "lignes": [],
+   "position": [
+    5.353,
+    -4.09
+   ],
+   "points_positifs": "",
+   "points_negatifs": "Préfère la tontine du marché",
+   "montant_en_jeu": null,
+   "concurrent_cite": "Une tontine de marché lui avance 100 000 F chaque mois, sans frais affichés",
+   "raison": "Passe par la tontine du marché"
+  },
+  {
+   "id": "FV-1015-07",
+   "date": "2026-10-15",
+   "heure": "10:30",
+   "commercial": "C2",
+   "code_pdv": "PDV-07",
+   "point_de_vente": "Établissements Sidibé et Frères",
+   "quartier": "Abobo-Gare",
+   "statut": "visité",
+   "lignes": [],
+   "position": [
+    5.4232,
+    -4.0205
+   ],
+   "points_positifs": "Gérant présent",
+   "points_negatifs": "Attend toujours la réponse sur le délai de règlement du fournisseur",
+   "montant_en_jeu": null,
+   "prochaine_etape": {
+    "action": "Apporter la réponse écrite de l'équipe produit",
+    "date": "2026-10-21"
+   },
+   "concurrent_cite": "Une microfinance lui propose de financer directement ses boutiquiers"
+  },
+  {
+   "id": "FV-1015-08",
+   "date": "2026-10-15",
+   "heure": "12:00",
+   "commercial": "C2",
+   "code_pdv": "PDV-06",
+   "point_de_vente": "Dépôt Koné et Fils",
+   "quartier": "Yopougon Gesco",
+   "statut": "intéressé",
+   "lignes": [],
+   "position": [
+    5.353,
+    -4.111
+   ],
+   "points_positifs": "Démonstration confirmée pour le jeudi 22 octobre",
+   "points_negatifs": "",
+   "montant_en_jeu": null,
+   "prochaine_etape": {
+    "action": "Démonstration avec trois de ses clients",
+    "date": "2026-10-22"
+   }
+  },
+  {
+   "id": "FV-1015-09",
+   "date": "2026-10-15",
+   "heure": "16:00",
+   "commercial": "C3",
+   "code_pdv": "PDV-05",
+   "point_de_vente": "Boutique Diabaté",
+   "quartier": "Abobo Anonkoua-Kouté",
+   "statut": "prospect",
+   "lignes": [],
+   "position": [
+    5.447,
+    -4.028
+   ],
+   "points_positifs": "",
+   "points_negatifs": "",
+   "montant_en_jeu": null,
+   "prochaine_etape": {
+    "action": "Première visite",
+    "date": "2026-10-21"
+   }
+  }
+ ]
+}
