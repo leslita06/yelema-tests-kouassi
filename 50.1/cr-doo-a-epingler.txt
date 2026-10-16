@@ -1,0 +1,9 @@
+CR
+Client : ⟦nom du point⟧
+Quartier : ⟦quartier, ville⟧
+Statut : ⟦prospect / visité / intéressé / commande / pas intéressé⟧
+Produits : ⟦services doo! présentés⟧
+Montant : ⟦néant si recrutement, sinon montant en jeu⟧
+Points positifs : ⟦une ligne⟧
+Points négatifs : ⟦une ligne⟧
+Prochaine étape : ⟦action et date⟧
