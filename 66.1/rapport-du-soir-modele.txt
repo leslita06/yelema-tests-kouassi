@@ -1,0 +1,7 @@
+SOIR ⟦date⟧ · ⟦prénom⟧ · ⟦secteur⟧
+Visites prévues / faites : ⟦x⟧ / ⟦y⟧
+Commandes : ⟦agents inscrits (formulaire rempli) ; services activés⟧
+Encaissé : ⟦montant, ou néant⟧
+Promesses faites : ⟦à qui, quoi, pour quand⟧
+Nouveaux prospects : ⟦nombre et noms⟧
+Problème : ⟦une ligne, ou rien⟧
