@@ -1,0 +1,22 @@
+source,nom,role,societe,canal,email,telephone,dernier_echange,sujet,a_suivre
+WhatsApp,Aya Kouamé,Directrice,Traiteur Les Saveurs,WhatsApp,,+225 07 XX XX 41 18,2026-10-09,Plainte tomate mariage (30 kg),Visite avec plan événements
+Carnet,Mme Aya Kouame,Directrice,"Traiteur Les Saveurs, Yopougon",Téléphone,aya@lessaveurs.exemple.ci,07 XX XX 41 18,2026-09-12,Devis mariage décembre,
+Carnet,Ibrahim Traoré,Responsable des achats,Cantine Tour B,Email,achats@tourb.exemple.ci,,2026-10-06,Facture septembre contestée,Point après règlement du litige
+Email,I. Traoré,Achats,Cantine Tour B (Treichville),Email,achats@tourb.exemple.ci,+225 27 XX XX 60 02,2026-10-10,Relance impayé 35 j,
+Carnet,Marie-Laure N'Guessan,Économe,Hôtel Les Palmiers,WhatsApp,,+225 05 XX XX 77 30,2026-10-02,Plantain trop mûr,Proposer 2 livraisons/semaine
+Carnet,Paul Aka,Directeur,Hôtel Plage Bassam,Email,direction@plagebassam.exemple.ci,,2026-10-08,Enquête : prêt à recommander,Demander 2 noms d'hôtels de Bassam
+LinkedIn,Paul Aka,Directeur général,Hôtel Plage Bassam,LinkedIn,,,2026-08-30,Mise en relation salon hôtellerie,
+WhatsApp,Koffi Yao,Gérant,Restaurant Chez Yao,WhatsApp,,+225 01 XX XX 23 54,2026-10-05,"Note 10, cousine ouvre à Angré",Demander le contact de la cousine
+Carnet,Adjoua Yao,Future gérante,"Maquis (nom à venir), Angré",[à sourcer],,,,,"Recommandation de Koffi Yao, attendre son accord"
+Carnet,Sékou Bamba,Chef de cuisine,Restaurant La Lagune,WhatsApp,,+225 07 XX XX 09 66,2026-10-03,"Note 10, frère à Marcory",Demander la présentation
+Carnet,Fanta Diomandé,Gérante,Maquis Bon Coin,Téléphone,,+225 05 XX XX 51 07,2026-10-07,"Plantain jeté, menace de retour au marché",Appel après traitement par Awa
+WhatsApp,Fanta Diomande,Gérante,"Maquis Bon-Coin, Angré",WhatsApp,,+225 05 XX XX 51 07,2026-10-11,Photo du régime abîmé,
+Carnet,Moussa Koné,Gérant,Restaurant Le Kotoko,WhatsApp,,+225 07 XX XX 88 21,2026-09-29,Commande J0 livrée trop tard,Proposer commande la veille (J+1)
+Carnet,Ange Kouassi,Responsable des achats,Cantine Port Sud,Email,appro@portsud.exemple.ci,,2026-09-25,"Volumes respectés, renouvellement 31/01/2027",Préparer la reconduction
+Email,Ange Kouassi,Acheteur,Cantine Port Sud,Email,appro@portsud.exemple.ci,,2026-10-01,Demande grille 2027,
+Carnet,Brice Gnagne,Gérant,Maquis Chez Koffi,WhatsApp,,+225 01 XX XX 14 90,2026-10-04,Veut huile et riz chez Djoli,Noter pour la décision gamme
+Carnet,Clarisse Ehui,Gérante,Maquis La Marmite,WhatsApp,,,2026-10-06,"Note 10, qualité aubergine",Demander un témoignage (accord écrit)
+LinkedIn,Jean-Marc Lath,Directeur restauration,Hôtel Lagune Bleue,LinkedIn,,,2026-07-15,Compte perdu : pertes et facture en litige,Reconquête après règlement du litige
+Carnet,Awa Coulibaly,Gérante,Maquis Le Terminus,Téléphone,,+225 2X XX XX XX,2026-09-30,Tomates écrasées,Proposer tomate 1er choix carton trié
+Source publique,Stane Blegbo,Cofondateur,Djoli Côte d'Ivoire,[à sourcer],,,,,Arbitrages prix et gamme
+Source publique,Thomas Giannetti,Cofondateur,Djoli Côte d'Ivoire,[à sourcer],,,,,
