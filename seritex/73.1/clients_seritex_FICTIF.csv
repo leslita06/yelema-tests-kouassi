@@ -1,0 +1,31 @@
+id,nom,commune,quartier,secteur,statut,ca_12m_fcfa,derniere_commande,gamme,contact
+C-001,Orange Côte d'Ivoire,Plateau,Plateau centre,Télécoms,actif,48500000,2026-08,"T-shirts campagnes, polos boutiques",Resp. événementiel
+C-002,MTN CI,Plateau,Plateau,Télécoms,actif,31200000,2026-06,Kits activation terrain,Chef de projet trade
+C-003,Moov Africa CI,Marcory,Zone 4,Télécoms,actif,12800000,2026-03,Polos agents,Achats marketing
+C-004,CIE,Treichville,Av. Christiani,Énergie,actif,22400000,2026-07,"Tenues de travail, HV",Service achats
+C-005,SODECI,Treichville,Treichville,Eau,actif,14900000,2026-05,Tenues techniciens,Service achats
+C-006,NSIA,Plateau,Plateau,Banque-assurance,actif,9600000,2026-02,Polos et chemises agences,Communication
+C-007,SUNU Assurances,Plateau,Plateau,Banque-assurance,inactif,4100000,2025-09,Goodies salon,Marketing
+C-008,Nestlé CI,Yopougon,Zone industrielle,Agroalimentaire,actif,18700000,2026-04,"T-shirts promo, tabliers",Trade marketing
+C-009,FrieslandCampina WAMCO CI,Yopougon,Zone industrielle,Agroalimentaire,inactif,6300000,2025-11,Animations points de vente,Brand manager
+C-010,CANAL+ CI,Cocody,Riviera,Médias,actif,7900000,2026-01,Tenues installateurs,Opérations
+C-011,Solibra,Treichville,Zone portuaire,Boissons,prospect,0,,"Tenues merchandisers, maillots",Trade marketing
+C-012,Brassivoire,Yopougon,Yopougon,Boissons,prospect,0,,Kits événements,Activation
+C-013,Port Autonome d'Abidjan,Treichville,Zone portuaire,Logistique / public,prospect,0,,"HV, tenues",Marchés publics
+C-014,Bolloré / AGL CI,Treichville,Zone portuaire,Logistique,prospect,0,,"HV, tenues",Achats
+C-015,Ecobank CI,Plateau,Plateau,Banque-assurance,prospect,0,,"Polos agences, kits RH",Communication
+C-016,Société Générale CI,Plateau,Plateau,Banque-assurance,prospect,0,,Tenues événements,Communication
+C-017,Fédération Ivoirienne de Football,Treichville,Treichville,Sport,prospect,0,,Maillots supporters,Marketing
+C-018,Groupe scolaire Les Lauriers (FICTIF),Cocody,Angré,Éducation,prospect,0,,"Uniformes, t-shirts sport",Économe
+C-019,Agence Lumen Events (FICTIF),Marcory,Zone 4,Agence,actif,3200000,2026-09,T-shirts lancement produit,Chef de projet
+C-020,Clinique Sainte-Anne (FICTIF),Cocody,II Plateaux,Santé,actif,2600000,2026-07,Blouses brodées,Économat
+C-021,Transports Lagunaires Express (FICTIF),Koumassi,Zone industrielle,Logistique,actif,5400000,2026-08,"Polos chauffeurs, HV",RH
+C-022,Maquis Le Baobab (FICTIF),Yopougon,Sicogi,Restauration,inactif,650000,2025-06,Tabliers serveurs,Gérant
+C-023,ONG Enfance Plus (FICTIF),Abobo,Abobo Gare,ONG,actif,1900000,2026-05,T-shirts campagne,Logisticien
+C-024,Supermarché Bon Prix (FICTIF),Abobo,PK 18,Distribution,prospect,0,,Tenues caissiers,Gérant
+C-025,Club ASEC Supporters (FICTIF),Adjamé,Williamsville,Sport,inactif,1200000,2025-04,Maillots supporters,Président
+C-026,Hôtel Lagune Bleue (FICTIF),Port-Bouët,Vridi,Hôtellerie,actif,3800000,2026-06,Tenues personnel,DRH
+C-027,Pharmacie du Rond-Point (FICTIF),Bingerville,Centre,Santé,prospect,0,,Blouses brodées,Titulaire
+C-028,BTP Akwaba Construction (FICTIF),Anyama,Route d'Anyama,BTP,actif,4700000,2026-03,"Tenues de travail, HV",Conducteur travaux
+C-029,Cabinet Kodjo & Associés (FICTIF),,« Riviera ? » (adresse incomplète),Services,actif,900000,2026-02,Polos brodés,Assistante
+C-030,Coopérative Cacao Sud (FICTIF),,Soubré (hors Abidjan),Agro,prospect,0,,T-shirts coopérateurs,Président
